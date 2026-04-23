@@ -16,3 +16,40 @@
   <li>🚀 Passionate about creating responsive and scalable applications</li>
   <li>📍 Bangalore, Karnataka, India</li>
 </ul>
+
+
+<h1>Skills & Technologies</h1>
+<hr>
+<h3>Frontend Development</h3>
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JavaScript</li>
+  <li>React.js</li>
+</ul>
+
+<br>
+
+<h3>Backend Development</h3>
+<ul>
+  <li>Java (Core & Advanced)</li>
+  <li>Spring Framework (Spring IOC, Spring MVC,Spring Boot, Spring Data JPA)</li>
+  <li>Microservices Architecture (REST APIs, Service Communication)</li>
+  <li>Hibernate & JPA</li>
+</ul>
+
+<br>
+
+<h3>Databases</h3>
+<ul>
+  <li>MySQL</li>
+</ul>
+
+<br>
+
+<h3>TooTools & Other Technologies</h3>
+<ul>
+  <li>Git & GitHub</li>
+  <li>Eclipse IDE</li>
+  <li>Postman (API Testing)</li>
+</ul>
