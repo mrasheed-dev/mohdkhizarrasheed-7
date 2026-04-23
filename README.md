@@ -1,16 +1,17 @@
-## Hi ! I'm Mohd Khizar Rasheed 👋
+<center>
+  <h1>Hi ! I'm Mohd Khizar Rasheed 👋</h1>
+</center>
 
-<!--
-**mohdkhizarrasheed-7/mohdkhizarrasheed-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>
+  🌟 About Me
+</h1>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<ul>
+  <li>🎓 B.E in Electrical & Electronics Engineering (2024) </li>
+  <li>💼 Front-End Developer Intern at Techplement </li>
+  <li>🌱 Trained in Software Development at JSpiders, Bangalore</li>
+  <li>Currently learning Spring Boot, Microservices, REST APIs</li>
+  <li>⚡ Quick Learner | Team Worker | Team Leader </li>
+  <li>🚀 Passionate about creating responsive and scalable applications</li>
+  <li>📍 Bangalore, Karnataka, India</li>
+</ul>
