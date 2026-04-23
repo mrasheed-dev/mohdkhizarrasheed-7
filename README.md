@@ -28,8 +28,6 @@
   <li>React.js</li>
 </ul>
 
-<br>
-
 <h3>Backend Development</h3>
 <ul>
   <li>Java (Core & Advanced)</li>
@@ -38,14 +36,10 @@
   <li>Hibernate & JPA</li>
 </ul>
 
-<br>
-
 <h3>Databases</h3>
 <ul>
   <li>MySQL</li>
 </ul>
-
-<br>
 
 <h3>TooTools & Other Technologies</h3>
 <ul>
