@@ -8,7 +8,7 @@
   <p>I’m a Java Backend Developer focused on creating scalable, secure, and high-performance web applications using Spring Boot and Microservices. I have a strong foundation in backend development and am currently learning advanced Spring Boot concepts, Microservices Architecture, Spring Security, REST APIs, and distributed systems.</p>
 
 <ul>
-  <li>🎓 B.E in Electrical & Electronics Engineering (2024) </li>
+  <li>🎓 B.E in Electrical & Electronics Engineering </li>
   <li>💼 Front-End Developer Intern at Techplement </li>
   <li>🌱 Trained in Software Development at JSpiders, Bangalore</li>
   <li>💻 Currently learning Spring Boot, Microservices, REST APIs</li>
@@ -39,6 +39,7 @@
 <h3>Databases</h3>
 <ul>
   <li>MySQL</li>
+  <li>Oracle SQL</li>
 </ul>
 
 <h3>TooTools & Other Technologies</h3>
@@ -46,4 +47,5 @@
   <li>Git & GitHub</li>
   <li>Eclipse IDE</li>
   <li>Postman (API Testing)</li>
+  <li>Swagger / UI Testing</li>
 </ul>
